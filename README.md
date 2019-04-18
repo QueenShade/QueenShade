@@ -1,7 +1,6 @@
 # QueenHub
 Queen's reshades for different games. Requires Reshade and applicable games.
 Please check the instructions below on how to activate.
-For more information visit our Discord
 
 
 # What is Reshade?
