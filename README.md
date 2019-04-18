@@ -38,19 +38,19 @@ Here are some examples
 ## Dark Souls
 
 Before
-![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls/ds1.png "Before")
+![Before](https://github.com/QueenShade/queenshade/blob/master/examples/darksouls/ds1.png "Before")
 
 After
-![After](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls/ds2.png "After")
+![After](https://github.com/QueenShade/queenshade/blob/master/examples/darksouls/ds2.png "After")
 
 ## Dark Souls 2
 Before
-![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls2/darksouls1.png "Before")
+![Before](https://github.com/QueenShade/queenshade/blob/master/examples/darksouls2/darksouls1.png "Before")
 After
-![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls2/darksouls2.png "Before")
+![Before](https://github.com/QueenShade/queenshade/blob/master/examples/darksouls2/darksouls2.png "Before")
 
 ## Borderlands
 Before
-![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/borderlands/bl1.png "Before")
+![Before](https://github.com/QueenShade/queenshade/blob/master/examples/borderlands/bl1.png "Before")
 After
-![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/borderlands/bl2.png "Before")
+![Before](https://github.com/QueenShade/queenshade/blob/master/examples/borderlands/bl2.png "Before")
