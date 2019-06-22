@@ -54,7 +54,7 @@ Before
 After
 ![Before](https://github.com/QueenShade/queenshade/blob/master/examples/borderlands/bl2.png "Before")
 
-##Bloody Spell
+## Bloody Spell
 
 Before
 ![Before](https://github.com/QueenShade/queenshade/blob/master/examples/bloodyspell/bs1.png "Before")
