@@ -4,7 +4,7 @@ Please check the instructions below on how to activate.
 
 
 # What is Reshade?
-Reshade is an open-source advanced, fully generic post-processing injector for games and video. Reshade allows one to inject any D3D9, D3D10, D3D11, and OpenGL game with advanced postprocessing effects such as Ambient Occlusion, Depth of Field, color correction and more. Seen those beautiful screens at the PC Screenshot or even Emulator screenshot threads? Chances are that Reshade was used to touch up the games running.
+Reshade is an open-source advanced, fully generic post-processing injector for games and video. Reshade allows one to inject any D3D9, D3D10, D3D11,D3D12 and OpenGL game with advanced postprocessing effects such as Ambient Occlusion, Depth of Field, color correction and more. Seen those beautiful screens at the PC Screenshot or even Emulator screenshot threads? Chances are that Reshade was used to touch up the games running.
 
 reshade just recently got updated to 4.0 which could make way for vulkan reshade in future
 
@@ -27,12 +27,13 @@ Queen has been working on Reshade sets for a while. Most examples of Reshades sh
 
 # Queen's presets
 
-QueenShades are Queen's special reshade's that allow you to use my readymade reshares with just downloading the .ini file 
+QueenShades are Queen's special reshade's that allow you to use my readymade reshades with just downloading the .ini file 
 
 To set up a Queenshade, install Reshade and then navigate to the game's folder to a folder called reshade-shaders. Drop the .ini file here and you're good to go!
 
 # Examples 
 Here are some examples 
+
 
 ## Dark Souls
 
